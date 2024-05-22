@@ -1,0 +1,6 @@
+{
+  "name": "test_dataform_2",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
